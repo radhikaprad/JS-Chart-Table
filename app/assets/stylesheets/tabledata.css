@@ -1,0 +1,32 @@
+html,
+body,
+#map {
+    display: block;
+    width: 70%;
+    height: 70%;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 5%;
+}
+
+#tabledata {
+    position: absolute;
+    top: 7%;
+}
+
+#map {
+    background: #58B;
+    position: absolute;
+    top: 30%;
+}
+
+#tablechart {
+    position: absolute;
+    top: 75%;
+}
